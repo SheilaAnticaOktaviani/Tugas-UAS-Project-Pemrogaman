@@ -114,5 +114,3 @@ Saat menjalankan program, pengguna akan diminta untuk memberikan informasi menge
 8. Penyimpanan Data: Data yang telah diinput (nama, harga, dan stok) disimpan dalam sebuah struktur data yang sesuai.
 9. Pengulangan Input: Proses input (langkah 2-8) diulang sampai pengguna memberikan sinyal untuk berhenti. Sinyal ini biasanya berupa input khusus, seperti kata kunci "exit" atau perintah lainnya.
 10. Terminasi Input: Setelah pengguna memberikan sinyal berhenti, proses input data diakhiri.
-## Kesimpulan Penjelasan Code 
-ode ini menerapkan prinsip OOP dengan memisahkan data produk (Produk), logika pemrosesan (ProdukProcess), dan tampilan (ProdukView) ke dalam kelas-kelas terpisah. Ini membuat kode lebih modular, terorganisir, dan mudah dipelihara. Penggunaan package dan relative import juga merupakan praktik yang baik untuk proyek yang lebih besar. Validasi input dengan try...except membantu mencegah error dan membuat program lebih robust.
